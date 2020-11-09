@@ -31,4 +31,12 @@ From this analysis, the extraction and definition of the objects, classes and me
 
 * Polyomorphism: It is building methods with the same name but with different behavior.
 
+### languages:
+-------------
+
+* Python
+* PHP
+* Javascript
+* Java
+
 
