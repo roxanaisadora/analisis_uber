@@ -18,7 +18,7 @@ Methods: These are the functions or actions that this object can do.
 
 Installing: It is the creation of an object from a class that is called an instance or instances.
 
-++The pillars of OOP are:++
+++The pillars of POO are:++
 
 Abstraction: It is to separate each one of the data of an object to be able to create its mold (class)
 
